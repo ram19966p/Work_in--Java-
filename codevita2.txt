@@ -1,0 +1,25 @@
+import java .util.*;
+
+
+public class CodeVita1 
+{
+public  static void main(String  args[]){
+Scanner sc =  new Scanner(System.in);
+int p , totalYear   ;
+System.out.println("Enter the Principal Amoun");
+p =  sc.nextDouble();
+System.out.println("Enter the Year ");
+
+totalYear = sc.nextInt();
+int n1 = sc.nextInt(); 
+for( int i = 0 ; i<n ; i--){
+    
+
+}
+}
+}
+
+
+
+
+
