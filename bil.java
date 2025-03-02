@@ -28,8 +28,22 @@
     float ft = 3.14f;
     double d = 99.9954;
 
-   double du =  (ft * bt) + (i  % ch ) - (d * s);
-     System.out.println(du);
+  // double du =  (ft * bt) + (i  % ch ) - (d * s);
+
+  int   a = 10 ;
+  int b = ++a;
+
+
+
+  int t = 10 ;
+  int t1 = 5 ;
+
+
+int x = 2 , y = 5 ; 
+  int exp1 =  (  (x * y)  / x);
+  int exp2 =  ( x * (y / x ));
+  
+     System.out.println( exp1 +" \n"+ exp2);
 
 
      
